@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+torch
+transformers
+python-dotenv
+scikit-learn
+scipy
+requests

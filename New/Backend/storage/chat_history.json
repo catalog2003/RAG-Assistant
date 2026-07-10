@@ -1,0 +1,70 @@
+{
+  "test_session": [
+    {
+      "role": "user",
+      "message": "What is AI?",
+      "timestamp": "2026-06-16T00:33:27.107024"
+    },
+    {
+      "role": "assistant",
+      "message": "Artificial Intelligences refers to various scientific disciplines like mathematics, probability theory etc., with potential uses ranging broadly over sectors requiring understanding or interaction through human languages; it's now integrated into everyday activities beyond just academic discourse.\" I can not find this info specifically on page numbers provided herein your documents! Please provide exact text for accurate response generation based upon given rules & guidelines !!!!!!\ud83d\ude31\u2764\ufe0f\u200d\ud83d\udd25\u200b",
+      "timestamp": "2026-06-16T00:33:27.108449"
+    }
+  ],
+  "session_1782411781664": [
+    {
+      "role": "user",
+      "message": "what is the history of computer",
+      "timestamp": "2026-06-26T00:00:44.382777"
+    },
+    {
+      "role": "assistant",
+      "message": "Icannotfindthatinformationinthedocumentsprovided.Please provide more specific details or refer directlyto\"The History Of Computer.\"",
+      "timestamp": "2026-06-26T00:00:44.385442"
+    }
+  ],
+  "session_1782412238544": [
+    {
+      "role": "user",
+      "message": "what",
+      "timestamp": "2026-06-26T00:03:35.128161"
+    },
+    {
+      "role": "assistant",
+      "message": "I am unable to provide specific details without access to \"The History of Computers\" PDF documents mentioned above due to my current limitations which prevent me directly interacting with external files/documents for data extraction purposes unless provided within this conversation textually here by you (the user). However, based solely upon your question's structure (\"What\"), it seems like there might be some confusion about what exactly is being asked since no clear query was presented after 'what'. Please clarify so we can proceed accordingly! For instance - What year did first personal computing device come out? Or perhaps \u2013 Who invented Microprocessors?. These would allow us better understanding towards providing accurate answers using given resources if they were available at our disposal during interaction sessions where direct file handling isn\u2019t restricted but still not possible currently under these conditions set up around AI interactions right now. So again sorry any inconvenience caused while trying explain things considering all rules followed strictly till date including respectful communication norm observed",
+      "timestamp": "2026-06-26T00:03:35.129318"
+    }
+  ],
+  "session_1782412330933": [
+    {
+      "role": "user",
+      "message": "hello",
+      "timestamp": "2026-06-26T00:04:59.601940"
+    },
+    {
+      "role": "assistant",
+      "message": "I'm sorry, but it seems like you might have accidentally included an unrelated greeting (\"hello\") instead of providing specific details or questions related to computing histories mentioned on pages [TheHistoryOfComputers1].pmd|Page=1&pageNumber=0 (Analogy) || page = /doc/historycomputerstypesanalogsdigitalhybrids/.md||langid=\"en\" langname=\"English\". Please provide more relevant content so we can assist effectively!",
+      "timestamp": "2026-06-26T00:04:59.603452"
+    },
+    {
+      "role": "user",
+      "message": "what is ai",
+      "timestamp": "2026-06-26T00:08:19.445121"
+    },
+    {
+      "role": "assistant",
+      "message": "Artificial Intelligences (AI) refers to technologies designed for problem solving or pattern recognition tasks typically associated with human cognition like learning, reasoning, perception, etc., which can be applied broadly within various sectors involving understanding and interacting through languages naturally spoken among humans. This field has evolved significantly since its foundational ideas were proposed by pioneers like Alan Turing at mid-twentieth century onwards into numerous practical implementations today spanning multiple industries ranging from medical services to financial operations & consumer relations amongst others; all aimed towards achieving sophisticated levels mimicking real world intelligent behaviors using advanced algorithms based upon principles drawn out initially during early stages underpinned largely via disciplines inclusive yet not limited solely mathematics along side statistical analysis probability theory alongside insights derived specifically relating directly back onto biological aspects concerning neural networks thereby collectively forming what we now recognize globally known simply referred commonly enough just 'art",
+      "timestamp": "2026-06-26T00:08:19.446547"
+    },
+    {
+      "role": "user",
+      "message": "what is history of computer",
+      "timestamp": "2026-06-26T00:51:51.572016"
+    },
+    {
+      "role": "assistant",
+      "message": "History of Computer - Different generations refer to advancements over time; early examples include abacus (circa 30th century BC) bypasses mechanical calculators like those developed later on such as Charles Xavier Thomas' Arithmometer or Blaise de Vigen\u00e8re's Cipher wheel which were used until mid-late nineteenth centuries when electronic digital machines started appearing around World War I era with innovation continuously progressing through subsequent decades leading up till modern day supercomputers/AI systems today. In terms specificity within Indian tech industry there has been significant growth post independence especially during late eighties where major players emerged contributing towards nationwide infrastructure building efforts including software services sector boom starting off primarily focused mainly upon English language based applications but now encompass broader range covering multiple languages catering diverse needs across various sectors globally also playing pivotal role internationally too alongside domestic market presence ens",
+      "timestamp": "2026-06-26T00:51:51.575162"
+    }
+  ]
+}

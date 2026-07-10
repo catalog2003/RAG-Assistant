@@ -1,0 +1,18 @@
+@import "tailwindcss";
+body {
+  background: linear-gradient(to bottom right, #f9fafb, #f3f4f6);
+  min-height: 100vh;
+}
+
+/* Custom Components */
+.message-user {
+  @apply bg-blue-600 text-white rounded-2xl rounded-tr-sm;
+}
+
+.message-assistant {
+  @apply bg-white text-gray-800 rounded-2xl rounded-tl-sm shadow-sm border border-gray-200;
+}
+
+.citation-hover {
+  @apply transition-all duration-200 hover:scale-105;
+}
